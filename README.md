@@ -1,3 +1,5 @@
+# CareerPath AI — Personalized Career & Skills Advisor
+
 An AI-powered career guidance platform for Indian students that analyzes education, skills, interests, and goals to deliver personalized career recommendations using **Google Cloud Generative AI / Gemini**.
 
 ## Live Demo
